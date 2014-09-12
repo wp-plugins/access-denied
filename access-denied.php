@@ -20,7 +20,7 @@ define('access_denied_pro_url', 'http://paratheme.com' );
 define('access_denied_demo_url', 'http://paratheme.com' );
 define('access_denied_conatct_url', 'http://paratheme.com/contact' );
 define('access_denied_plugin_name', 'Access Denied' );
-
+define('access_denied_share_url', 'http://wordpress.org/plugins/access-denied/' );
 
 require_once( plugin_dir_path( __FILE__ ) . 'includes/access-denied-functions.php');
 
