@@ -53,12 +53,12 @@ in the same way you can block login form by "Enable Login Form Block ?", login f
 == Frequently Asked Questions ==
 
 = My own IP not blocking ? =
-Please confirm you entred atleast two ip address on "IP List", first one is dummy, and from sceond ip address is working ip address, thats mean you must have entered a dummy ip address at first and then other ip address you want block. you can test by your own ip address. 
+Please confirm you entered atleast two ip address on "IP List", first one is dummy, and from second ip address is working ip address, that's mean you must have entered a dummy ip address at first and then other ip address you want block. you can test by your own ip address. 
 
 == Screenshots ==
 
-1. screenshot - 1
-
+1. screenshot - block site visit
+1. screenshot - block login from
 
 == Changelog ==
 
