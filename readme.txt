@@ -50,6 +50,10 @@ after fill "IP List" please check mark "Enabled IP Block ?" to confirm ip blocki
 
 in the same way you can block login form by "Enable Login Form Block ?", login form will block wp-login.php login form submission for IP List you entered.
 
+== Frequently Asked Questions ==
+
+= My own IP not blocking ? =
+Please confirm you entred atleast two ip address on "IP List", first one is dummy, and from sceond ip address is working ip address, thats mean you must have entered a dummy ip address at first and then other ip address you want block. you can test by your own ip address. 
 
 == Screenshots ==
 
